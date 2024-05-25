@@ -1,0 +1,17 @@
+
+ol.d {
+    list-style-type: lower-alpha;
+}
+
+ul.b {
+    list-style-type: square;
+}
+
+
+ol.a {
+    list-style-type: armenian;
+}
+
+ol.n {
+    list-style-type: none;
+}
